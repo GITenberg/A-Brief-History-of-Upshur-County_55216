@@ -1,11 +1,16 @@
 _repo: A-Brief-History-of-Upshur-County_55216
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 55216-h/images/cover.jpg
 creator:
   author:
     agent_name: Baird, G. H.
     gutenberg_agent_id: '48229'
     url: http://www.gutenberg.org/2009/agents/48229
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55216#A-Brief-History-of-Upshur-County
 gutenberg_issued: '2017-07-28'
 gutenberg_type: Text
 identifiers:
